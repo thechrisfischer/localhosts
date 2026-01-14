@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-01-14T07:16:34.441295Z",
+  "last_updated": "2026-01-14T07:31:31.105076Z",
   "routers": {
     "ZoomBeach": {
       "ip": "192.168.78.1",
       "subnet": "192.168.78.0/24",
-      "last_polled": "2026-01-14T07:15:32.634119Z",
-      "host_count": 15
+      "last_polled": "2026-01-14T07:30:32.213417Z",
+      "host_count": 13
     },
     "Zoom": {
       "ip": "192.168.68.1",
       "subnet": "192.168.68.0/24",
-      "last_polled": "2026-01-14T07:16:04.749646Z",
+      "last_polled": "2026-01-14T07:31:01.332261Z",
       "host_count": 21
     },
     "Goodword": {
       "ip": "192.168.66.1",
       "subnet": "192.168.66.0/24",
-      "last_polled": "2026-01-14T07:16:34.337936Z",
+      "last_polled": "2026-01-14T07:31:31.002049Z",
       "host_count": 5
     }
   },
@@ -29,7 +29,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634142Z"
+      "last_seen": "2026-01-14T07:30:32.213440Z"
     },
     {
       "hostname": "Android",
@@ -39,7 +39,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634152Z"
+      "last_seen": "2026-01-14T07:30:32.213450Z"
     },
     {
       "hostname": "none-5",
@@ -49,7 +49,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634160Z"
+      "last_seen": "2026-01-14T07:30:32.213458Z"
     },
     {
       "hostname": "device",
@@ -59,7 +59,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634167Z"
+      "last_seen": "2026-01-14T07:30:32.213464Z"
     },
     {
       "hostname": "EPSONCA0E2F",
@@ -69,7 +69,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634173Z"
+      "last_seen": "2026-01-14T07:30:32.213470Z"
     },
     {
       "hostname": "linux",
@@ -79,7 +79,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634179Z"
+      "last_seen": "2026-01-14T07:30:32.213477Z"
     },
     {
       "hostname": "",
@@ -89,7 +89,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634185Z"
+      "last_seen": "2026-01-14T07:30:32.213483Z"
     },
     {
       "hostname": "moros",
@@ -99,7 +99,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634191Z"
+      "last_seen": "2026-01-14T07:30:32.213489Z"
     },
     {
       "hostname": "metus",
@@ -109,17 +109,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634197Z"
-    },
-    {
-      "hostname": "Instruments",
-      "ip": "192.168.78.100",
-      "mac": "34-14-B5-2B-FC-BA",
-      "subnet": "192.168.78.0/24",
-      "router": "ZoomBeach",
-      "connection_type": "Unknown",
-      "online": true,
-      "last_seen": "2026-01-14T07:15:32.634203Z"
+      "last_seen": "2026-01-14T07:30:32.213495Z"
     },
     {
       "hostname": "IP",
@@ -129,27 +119,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634209Z"
-    },
-    {
-      "hostname": "RYSE-SmartBridge-3F21",
-      "ip": "192.168.78.102",
-      "mac": "D0-16-F0-20-3F-21",
-      "subnet": "192.168.78.0/24",
-      "router": "ZoomBeach",
-      "connection_type": "Unknown",
-      "online": true,
-      "last_seen": "2026-01-14T07:15:32.634215Z"
-    },
-    {
-      "hostname": "IP",
-      "ip": "192.168.78.111",
-      "mac": "D4-53-83-5F-C2-34",
-      "subnet": "192.168.78.0/24",
-      "router": "ZoomBeach",
-      "connection_type": "Unknown",
-      "online": true,
-      "last_seen": "2026-01-14T07:15:32.634221Z"
+      "last_seen": "2026-01-14T07:30:32.213501Z"
     },
     {
       "hostname": "Mac",
@@ -159,7 +129,17 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634226Z"
+      "last_seen": "2026-01-14T07:30:32.213507Z"
+    },
+    {
+      "hostname": "Macmini",
+      "ip": "192.168.78.119",
+      "mac": "A6-13-DD-28-21-5B",
+      "subnet": "192.168.78.0/24",
+      "router": "ZoomBeach",
+      "connection_type": "Unknown",
+      "online": true,
+      "last_seen": "2026-01-14T07:30:32.213513Z"
     },
     {
       "hostname": "Lutron-02bfe8fe",
@@ -169,7 +149,7 @@
       "router": "ZoomBeach",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:15:32.634232Z"
+      "last_seen": "2026-01-14T07:30:32.213519Z"
     },
     {
       "hostname": "J",
@@ -179,7 +159,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749667Z"
+      "last_seen": "2026-01-14T07:31:01.332968Z"
     },
     {
       "hostname": "flichub",
@@ -189,7 +169,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749675Z"
+      "last_seen": "2026-01-14T07:31:01.332991Z"
     },
     {
       "hostname": "Lutron-01669156",
@@ -199,7 +179,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749682Z"
+      "last_seen": "2026-01-14T07:31:01.333000Z"
     },
     {
       "hostname": "linux-4188",
@@ -209,7 +189,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749688Z"
+      "last_seen": "2026-01-14T07:31:01.333007Z"
     },
     {
       "hostname": "iPhone",
@@ -219,7 +199,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749694Z"
+      "last_seen": "2026-01-14T07:31:01.333015Z"
     },
     {
       "hostname": "tablet",
@@ -229,7 +209,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749700Z"
+      "last_seen": "2026-01-14T07:31:01.333021Z"
     },
     {
       "hostname": "Living-Room",
@@ -239,7 +219,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749706Z"
+      "last_seen": "2026-01-14T07:31:01.333028Z"
     },
     {
       "hostname": "deimos",
@@ -249,7 +229,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749712Z"
+      "last_seen": "2026-01-14T07:31:01.333034Z"
     },
     {
       "hostname": "pc",
@@ -259,7 +239,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749718Z"
+      "last_seen": "2026-01-14T07:31:01.333041Z"
     },
     {
       "hostname": "amazon-0db3ba109",
@@ -269,7 +249,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749724Z"
+      "last_seen": "2026-01-14T07:31:01.333047Z"
     },
     {
       "hostname": "\u0004)F&",
@@ -279,17 +259,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749730Z"
-    },
-    {
-      "hostname": "tablet",
-      "ip": "192.168.68.116",
-      "mac": "B2-22-1D-CD-EE-51",
-      "subnet": "192.168.68.0/24",
-      "router": "Zoom",
-      "connection_type": "Unknown",
-      "online": true,
-      "last_seen": "2026-01-14T07:16:04.749736Z"
+      "last_seen": "2026-01-14T07:31:01.333054Z"
     },
     {
       "hostname": "Amazon",
@@ -299,7 +269,17 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749742Z"
+      "last_seen": "2026-01-14T07:31:01.333060Z"
+    },
+    {
+      "hostname": "MacBookPro",
+      "ip": "192.168.68.106",
+      "mac": "E2-05-31-DA-C5-DF",
+      "subnet": "192.168.68.0/24",
+      "router": "Zoom",
+      "connection_type": "Unknown",
+      "online": true,
+      "last_seen": "2026-01-14T07:31:01.333067Z"
     },
     {
       "hostname": "chaos",
@@ -309,7 +289,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749748Z"
+      "last_seen": "2026-01-14T07:31:01.333074Z"
     },
     {
       "hostname": "hades",
@@ -319,7 +299,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749754Z"
+      "last_seen": "2026-01-14T07:31:01.333080Z"
     },
     {
       "hostname": "BK-AUX",
@@ -329,7 +309,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749760Z"
+      "last_seen": "2026-01-14T07:31:01.333086Z"
     },
     {
       "hostname": "ecobee",
@@ -339,7 +319,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749766Z"
+      "last_seen": "2026-01-14T07:31:01.333092Z"
     },
     {
       "hostname": "SonosZP",
@@ -349,7 +329,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749772Z"
+      "last_seen": "2026-01-14T07:31:01.333098Z"
     },
     {
       "hostname": "phone",
@@ -359,7 +339,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749778Z"
+      "last_seen": "2026-01-14T07:31:01.333105Z"
     },
     {
       "hostname": "tablet",
@@ -369,7 +349,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749784Z"
+      "last_seen": "2026-01-14T07:31:01.333111Z"
     },
     {
       "hostname": "HarmonyHub",
@@ -379,7 +359,7 @@
       "router": "Zoom",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:04.749790Z"
+      "last_seen": "2026-01-14T07:31:01.333118Z"
     },
     {
       "hostname": "nyx",
@@ -389,7 +369,7 @@
       "router": "Goodword",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:34.337954Z"
+      "last_seen": "2026-01-14T07:31:31.002068Z"
     },
     {
       "hostname": "hypnos",
@@ -399,41 +379,41 @@
       "router": "Goodword",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:34.337962Z"
+      "last_seen": "2026-01-14T07:31:31.002077Z"
     },
     {
-      "hostname": "linux",
+      "hostname": "Amazon",
       "ip": "192.168.66.101",
       "mac": "40-A9-CF-03-B4-F2",
       "subnet": "192.168.66.0/24",
       "router": "Goodword",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:34.337969Z"
+      "last_seen": "2026-01-14T07:31:31.002083Z"
     },
     {
-      "hostname": "Android",
+      "hostname": "phone",
       "ip": "192.168.66.100",
       "mac": "98-CC-F3-9B-49-A1",
       "subnet": "192.168.66.0/24",
       "router": "Goodword",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:34.337975Z"
+      "last_seen": "2026-01-14T07:31:31.002090Z"
     },
     {
-      "hostname": "nyx",
+      "hostname": "pc",
       "ip": "192.168.66.103",
       "mac": "8E-FB-63-D1-C0-0F",
       "subnet": "192.168.66.0/24",
       "router": "Goodword",
       "connection_type": "Unknown",
       "online": true,
-      "last_seen": "2026-01-14T07:16:34.337981Z"
+      "last_seen": "2026-01-14T07:31:31.002096Z"
     }
   ],
   "summary": {
-    "total_hosts": 41,
+    "total_hosts": 39,
     "total_routers": 3,
     "total_subnets": 3
   }
