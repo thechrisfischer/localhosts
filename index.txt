@@ -1,4 +1,4 @@
-Host Registry - Last Updated: 2026-01-14 07:46:32 UTC
+Host Registry - Last Updated: 2026-01-14 08:01:32 UTC
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -18,35 +18,16 @@ flichub              192.168.68.107     62-6E-E9-BF-61-8B  Unknown    Online
 tablet               192.168.68.108     44-3D-54-1A-A6-84  Unknown    Online
 Lutron-01669156      192.168.68.109     EC-11-27-C7-8C-81  Unknown    Online
 phone                192.168.68.110     A6-8B-E8-D2-8A-FA  Unknown    Online
-SonosZP              192.168.68.111     B8-E9-37-7C-84-26  Unknown    Online
 tablet               192.168.68.112     44-42-01-A9-50-6A  Unknown    Online
 Living-Room          192.168.68.113     C8-69-CD-46-2A-BB  Unknown    Online
 iPhone               192.168.68.114     BA-D8-FF-04-3A-FF  Unknown    Online
 Amazon               192.168.68.115     68-B6-91-D2-33-AE  Unknown    Online
-tablet               192.168.68.116     B2-22-1D-CD-EE-51  Unknown    Online
 deimos               192.168.68.117     02-01-25-AC-10-5F  Unknown    Online
 Office               192.168.68.118     F0-B3-EC-3B-B3-D5  Unknown    Online
 pc                   192.168.68.119     4A-48-B0-30-AF-CA  Unknown    Online
 HarmonyHub           192.168.68.121     00-04-20-F1-2A-89  Unknown    Online
+J                    192.168.68.123     AC-9B-0A-2F-4E-08  Unknown    Online
+SonosZP              192.168.68.124     B8-E9-37-7C-84-26  Unknown    Online
 hades                192.168.68.126     88-A2-9E-28-B8-92  Unknown    Online
 
-Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
-────────────────────────────────────────────────────────────────────────────────
-Instruments          192.168.78.100     34-14-B5-2B-FC-BA  Unknown    Online
-                     192.168.78.101     B4-B7-42-D2-99-43  Unknown    Online
-RYSE-SmartBridge-3F21 192.168.78.102     D0-16-F0-20-3F-21  Unknown    Online
-connect              192.168.78.104     2C-9F-FB-EF-52-14  Unknown    Online
-Android              192.168.78.105     90-11-95-CE-F7-9C  Unknown    Online
-none-5               192.168.78.106     90-F8-2E-03-89-A1  Unknown    Online
-linux                192.168.78.107     58-9A-3E-DB-64-25  Unknown    Online
-IP                   192.168.78.108     D4-53-83-5D-7B-7E  Unknown    Online
-Lutron-02bfe8fe      192.168.78.109     18-93-D7-CD-73-97  Unknown    Online
-device               192.168.78.110     B6-F7-FF-20-35-A2  Unknown    Online
-IP                   192.168.78.111     D4-53-83-5F-C2-34  Unknown    Online
-moros                192.168.78.113     14-98-77-50-68-5E  Unknown    Online
-EPSONCA0E2F          192.168.78.115     38-9D-92-CA-0E-2F  Unknown    Online
-Mac                  192.168.78.118     2A-28-C1-4D-67-F9  Unknown    Online
-Macmini              192.168.78.119     A6-13-DD-28-21-5B  Unknown    Online
-metus                192.168.78.125     DE-AA-22-BC-27-AD  Unknown    Online
-
-Total: 40 hosts across 3 subnets
+Total: 24 hosts across 2 subnets
