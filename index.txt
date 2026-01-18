@@ -1,32 +1,29 @@
-Host Registry - Last Updated: Jan 18, 2026 3:16 AM EST
+Host Registry - Last Updated: Jan 18, 2026 3:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
-Amazon.local         192.168.66.100     40-A9-CF-03-B4-F2  Wireless   Online
-phone.local          192.168.66.101     98-CC-F3-9B-49-A1  Wireless   Online
-pc.local             192.168.66.104     C8-A3-62-23-2C-E3  Wired      Online
+linux.local          192.168.66.100     40-A9-CF-03-B4-F2  Wireless   Online
+Android.local        192.168.66.101     98-CC-F3-9B-49-A1  Wireless   Online
+nyx.local            192.168.66.104     C8-A3-62-23-2C-E3  Wired      Online
 device.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
-BK-AUX.local         192.168.68.100     44-61-32-97-41-0F  Unknown    Online
-)F&.local           192.168.68.101     44-61-32-87-5D-9F  Unknown    Online
 none-6.local         192.168.68.102     68-B6-91-D2-33-AE  Wireless   Online
 amazon-d4c674b70.local 192.168.68.103     10-96-93-B2-6E-B4  Wireless   Online
-BK-BEDROOM.local     192.168.68.104     44-61-32-A6-07-58  Wireless   Online
 chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
 HP842AFD466BEA.local 192.168.68.106     84-2A-FD-46-6B-EA  Wireless   Online
 flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
 amazon-0db3ba109.local 192.168.68.108     14-0A-C5-B1-80-46  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 HarmonyHub.local     192.168.68.110     00-04-20-F1-2A-89  Wireless   Online
-SonosZP.local        192.168.68.111     B8-E9-37-7C-84-26  Wireless   Online
 none-7.local         192.168.68.112     44-3D-54-1A-A6-84  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 Office.local         192.168.68.114     F0-B3-EC-3B-B3-D5  Wired      Online
 Macmini.local        192.168.68.115     4A-48-B0-30-AF-CA  Wireless   Online
 linux-3.local        192.168.68.116     44-42-01-A9-50-6A  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
+SonosZP.local        192.168.68.118     B8-E9-37-7C-84-26  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
@@ -34,17 +31,19 @@ Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
 Instruments.local    192.168.78.100     34-14-B5-2B-FC-BA  Wireless   Online
                      192.168.78.101     B4-B7-42-D2-99-43  Wireless   Online
 RYSE-SmartBridge-3F21.local 192.168.78.102     D0-16-F0-20-3F-21  Wired      Online
-Ring-7ffd34.local    192.168.78.103     A8-E2-C1-7F-FD-34  Wireless   Online
 connect.local        192.168.78.104     2C-9F-FB-EF-52-14  Wireless   Online
 Android.local        192.168.78.105     90-11-95-CE-F7-9C  Wireless   Online
 none-5.local         192.168.78.106     90-F8-2E-03-89-A1  Wireless   Online
 linux.local          192.168.78.107     58-9A-3E-DB-64-25  Wireless   Online
+IP.local             192.168.78.108     D4-53-83-5D-7B-7E  Wireless   Online
 Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
 device.local         192.168.78.110     B6-F7-FF-20-35-A2  Wired      Online
 IP.local             192.168.78.111     D4-53-83-5F-C2-34  Wireless   Online
 moros.local          192.168.78.113     14-98-77-50-68-5E  Wired      Online
+EPSONCA0E2F.local    192.168.78.115     38-9D-92-CA-0E-2F  Wireless   Online
 Samsung.local        192.168.78.117     64-1C-B0-B8-D7-D0  Wireless   Online
+Mac.local            192.168.78.118     2A-28-C1-4D-67-F9  Wireless   Online
 Macmini.local        192.168.78.119     A6-13-DD-28-21-5B  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 38 hosts across 3 subnets
+Total: 37 hosts across 3 subnets
