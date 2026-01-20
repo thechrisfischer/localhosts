@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Jan 19, 2026 9:46 PM EST
+Host Registry - Last Updated: Jan 19, 2026 10:01 PM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -12,7 +12,6 @@ hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
 )F&.local           192.168.68.101     44-61-32-87-5D-9F  Wireless   Online
-Macmini.local        192.168.68.102     4A-48-B0-30-AF-CA  Wireless   Online
 Office.local         192.168.68.103     F0-B3-EC-3B-B3-D5  Wired      Online
 amazon-d4c674b70.local 192.168.68.104     10-96-93-B2-6E-B4  Wireless   Online
 chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
@@ -24,11 +23,11 @@ HarmonyHub.local     192.168.68.111     00-04-20-F1-2A-89  Wireless   Online
 tablet.local         192.168.68.112     44-3D-54-1A-A6-84  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 BK-AUX.local         192.168.68.114     44-61-32-97-41-0F  Wireless   Online
-SonosZP.local        192.168.68.115     B8-E9-37-7C-84-26  Wireless   Online
 none-6.local         192.168.68.116     68-B6-91-D2-33-AE  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 BK-BEDROOM.local     192.168.68.118     44-61-32-A6-07-58  Wireless   Online
 J.local              192.168.68.120     AC-9B-0A-2F-4E-08  Wired      Online
+SonosZP.local        192.168.68.121     B8-E9-37-7C-84-26  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
@@ -45,8 +44,9 @@ Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
 device.local         192.168.78.110     B6-F7-FF-20-35-A2  Wired      Online
 IP.local             192.168.78.111     D4-53-83-5F-C2-34  Wireless   Online
 moros.local          192.168.78.113     14-98-77-50-68-5E  Wired      Online
+F)J؜JBjm.local       192.168.78.114     5C-47-5E-43-A2-2C  Wireless   Online
 EPSONCA0E2F.local    192.168.78.115     38-9D-92-CA-0E-2F  Wireless   Online
-Macmini.local        192.168.78.119     A6-13-DD-28-21-5B  Wireless   Online
+Mac.local            192.168.78.118     2A-28-C1-4D-67-F9  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
 Total: 40 hosts across 3 subnets
