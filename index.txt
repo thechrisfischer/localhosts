@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Jan 22, 2026 5:32 AM EST
+Host Registry - Last Updated: Jan 22, 2026 5:47 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -11,6 +11,8 @@ hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
 ────────────────────────────────────────────────────────────────────────────────
+MacBookPro.local     192.168.78.100     2A-9F-4F-DA-0E-BB  Wireless   Online
+Macmini.local        192.168.78.101     A6-13-DD-28-21-5B  Wireless   Online
 RYSE-SmartBridge-3F21.local 192.168.78.102     D0-16-F0-20-3F-21  Wired      Online
 tablet.local         192.168.78.103     58-9A-3E-DB-64-25  Wireless   Online
 iPhone.local         192.168.78.104     9E-04-D0-C0-C9-D9  Wireless   Online
@@ -27,8 +29,7 @@ moros.local          192.168.78.118     14-98-77-50-68-5E  Wired      Online
 EPSONCA0E2F.local    192.168.78.119     38-9D-92-CA-0E-2F  Wireless   Online
 IP.local             192.168.78.120     D4-53-83-5D-7B-7E  Wireless   Online
 Mac.local            192.168.78.121     2A-28-C1-4D-67-F9  Wireless   Online
-iPhone.local         192.168.78.122     2E-F5-27-A9-02-55  Wireless   Online
 MacBookPro.local     192.168.78.123     7A-A9-FD-60-E3-00  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 25 hosts across 2 subnets
+Total: 26 hosts across 2 subnets
