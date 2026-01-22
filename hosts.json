@@ -1,22 +1,22 @@
 {
-  "last_updated": "Jan 22, 2026 6:31 PM EST",
+  "last_updated": "Jan 22, 2026 6:46 PM EST",
   "routers": {
     "ZoomBeach": {
       "ip": "192.168.78.1",
       "subnet": "192.168.78.0/24",
-      "last_polled": "Jan 22, 2026 6:30 PM EST",
-      "host_count": 20
+      "last_polled": "Jan 22, 2026 6:45 PM EST",
+      "host_count": 19
     },
     "Zoom": {
       "ip": "192.168.68.1",
       "subnet": "192.168.68.0/24",
-      "last_polled": "Jan 22, 2026 6:31 PM EST",
+      "last_polled": "Jan 22, 2026 6:46 PM EST",
       "host_count": 20
     },
     "Goodword": {
       "ip": "192.168.66.1",
       "subnet": "192.168.66.0/24",
-      "last_polled": "Jan 22, 2026 6:31 PM EST",
+      "last_polled": "Jan 22, 2026 6:46 PM EST",
       "host_count": 6
     }
   },
@@ -29,7 +29,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "connect.local",
@@ -39,7 +39,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "Android.local",
@@ -49,7 +49,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "none-5.local",
@@ -59,7 +59,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "iPhone.local",
@@ -69,7 +69,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "device.local",
@@ -79,7 +79,17 @@
       "router": "ZoomBeach",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
+    },
+    {
+      "hostname": "EPSONCA0E2F.local",
+      "ip": "192.168.78.119",
+      "mac": "38-9D-92-CA-0E-2F",
+      "subnet": "192.168.78.0/24",
+      "router": "ZoomBeach",
+      "connection_type": "Wireless",
+      "online": true,
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "tablet.local",
@@ -89,7 +99,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "none-6.local",
@@ -99,7 +109,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "moros.local",
@@ -109,7 +119,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "metus.local",
@@ -119,7 +129,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "Samsung.local",
@@ -129,7 +139,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "Instruments.local",
@@ -139,7 +149,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "IP.local",
@@ -149,7 +159,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "RYSE-SmartBridge-3F21.local",
@@ -159,7 +169,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "MacBookPro.local",
@@ -169,7 +179,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "IP.local",
@@ -179,7 +189,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "Mac.local",
@@ -189,27 +199,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
-    },
-    {
-      "hostname": "Macmini.local",
-      "ip": "192.168.78.101",
-      "mac": "A6-13-DD-28-21-5B",
-      "subnet": "192.168.78.0/24",
-      "router": "ZoomBeach",
-      "connection_type": "Wireless",
-      "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
-    },
-    {
-      "hostname": "iPhone.local",
-      "ip": "192.168.78.104",
-      "mac": "9E-04-D0-C0-C9-D9",
-      "subnet": "192.168.78.0/24",
-      "router": "ZoomBeach",
-      "connection_type": "Wireless",
-      "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "Lutron-02bfe8fe.local",
@@ -219,7 +209,7 @@
       "router": "ZoomBeach",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:30 PM EST"
+      "last_seen": "Jan 22, 2026 6:45 PM EST"
     },
     {
       "hostname": "Android.local",
@@ -229,7 +219,7 @@
       "router": "Zoom",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": ":\u0011\u0000.local",
@@ -239,7 +229,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "flichub.local",
@@ -249,7 +239,7 @@
       "router": "Zoom",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "Lutron-01669156.local",
@@ -259,7 +249,7 @@
       "router": "Zoom",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "amazon-d4c674b70.local",
@@ -269,7 +259,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "Office.local",
@@ -279,7 +269,7 @@
       "router": "Zoom",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "none-7.local",
@@ -289,7 +279,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "Living-Room.local",
@@ -299,7 +289,7 @@
       "router": "Zoom",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "deimos.local",
@@ -309,7 +299,7 @@
       "router": "Zoom",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "Macmini.local",
@@ -319,7 +309,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "amazon-0db3ba109.local",
@@ -329,7 +319,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "\u0004)F&.local",
@@ -339,7 +329,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "SonosZP.local",
@@ -349,7 +339,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "none-6.local",
@@ -359,7 +349,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "chaos.local",
@@ -369,7 +359,7 @@
       "router": "Zoom",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "hades.local",
@@ -379,7 +369,7 @@
       "router": "Zoom",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "BK-AUX.local",
@@ -389,7 +379,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "BK-BEDROOM.local",
@@ -399,7 +389,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "linux-3.local",
@@ -409,7 +399,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "HarmonyHub.local",
@@ -419,7 +409,7 @@
       "router": "Zoom",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "nyx.local",
@@ -429,7 +419,7 @@
       "router": "Goodword",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "Sahibas-MBP.local",
@@ -439,17 +429,17 @@
       "router": "Goodword",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
-      "hostname": "pc.local",
+      "hostname": "nyx.local",
       "ip": "192.168.66.109",
       "mac": "DE-F1-EE-AC-63-8E",
       "subnet": "192.168.66.0/24",
       "router": "Goodword",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
       "hostname": "hypnos.local",
@@ -459,31 +449,31 @@
       "router": "Goodword",
       "connection_type": "Wired",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
-      "hostname": "phone.local",
+      "hostname": "Android.local",
       "ip": "192.168.66.101",
       "mac": "98-CC-F3-9B-49-A1",
       "subnet": "192.168.66.0/24",
       "router": "Goodword",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     },
     {
-      "hostname": "Amazon.local",
+      "hostname": "linux.local",
       "ip": "192.168.66.100",
       "mac": "40-A9-CF-03-B4-F2",
       "subnet": "192.168.66.0/24",
       "router": "Goodword",
       "connection_type": "Wireless",
       "online": true,
-      "last_seen": "Jan 22, 2026 6:31 PM EST"
+      "last_seen": "Jan 22, 2026 6:46 PM EST"
     }
   ],
   "summary": {
-    "total_hosts": 46,
+    "total_hosts": 45,
     "total_routers": 3,
     "total_subnets": 3
   }
