@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Jan 26, 2026 2:16 AM EST
+Host Registry - Last Updated: Jan 26, 2026 2:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -10,7 +10,6 @@ hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
-Macmini.local        192.168.68.100     4A-48-B0-30-AF-CA  Wireless   Online
 tablet.local         192.168.68.101     44-42-01-A9-50-6A  Wireless   Online
 Office.local         192.168.68.103     F0-B3-EC-3B-B3-D5  Wired      Online
 linux-4199.local     192.168.68.104     10-96-93-B2-6E-B4  Wireless   Online
@@ -27,6 +26,7 @@ phone.local          192.168.68.116     BA-D8-FF-04-3A-FF  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 Devices.local        192.168.68.120     00-04-20-F1-2A-89  Unknown    Online
 MacBookPro.local     192.168.68.121     22-0B-A4-11-2C-71  Wireless   Online
+Android.local        192.168.68.123     AC-9B-0A-2F-4E-08  Wired      Online
 SonosZP.local        192.168.68.124     B8-E9-37-7C-84-26  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
