@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Jan 27, 2026 10:31 AM EST
+Host Registry - Last Updated: Jan 27, 2026 10:46 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -17,7 +17,6 @@ Office.local         192.168.68.103     F0-B3-EC-3B-B3-D5  Wired      Online
 amazon-d4c674b70.local 192.168.68.104     10-96-93-B2-6E-B4  Wireless   Online
 chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
 flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
-BK-AUX.local         192.168.68.108     44-61-32-97-41-0F  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 tablet.local         192.168.68.110     44-42-01-A9-50-6A  Wireless   Online
 HarmonyHub.local     192.168.68.111     00-04-20-F1-2A-89  Wireless   Online
@@ -27,10 +26,10 @@ MacBookPro.local     192.168.68.114     E2-05-31-DA-C5-DF  Wireless   Online
 none-7.local         192.168.68.115     44-3D-54-1A-A6-84  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 Macmini.local        192.168.68.118     4A-48-B0-30-AF-CA  Wireless   Online
-SonosZP.local        192.168.68.119     B8-E9-37-7C-84-26  Wireless   Online
 BK-BEDROOM.local     192.168.68.120     44-61-32-A6-07-58  Wireless   Online
+Android.local        192.168.68.122     AC-9B-0A-2F-4E-08  Wired      Online
 iPhone.local         192.168.68.123     BA-D8-FF-04-3A-FF  Wireless   Online
-wlan0.local          192.168.68.125     7C-F6-66-C7-6C-AD  Wired      Online
+SonosZP.local        192.168.68.124     B8-E9-37-7C-84-26  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
@@ -46,6 +45,7 @@ connect.local        192.168.78.108     2C-9F-FB-EF-52-14  Wireless   Online
 Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
 IP.local             192.168.78.110     D4-53-83-5F-C2-34  Wireless   Online
 Macmini.local        192.168.78.111     A6-13-DD-28-21-5B  Wireless   Online
+IP.local             192.168.78.113     D4-53-83-5D-7B-7E  Wireless   Online
 moros.local          192.168.78.115     14-98-77-50-68-5E  Wired      Online
 EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wireless   Online
 Samsung.local        192.168.78.119     64-1C-B0-B8-D7-D0  Wireless   Online
