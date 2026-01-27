@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Jan 27, 2026 2:31 AM EST
+Host Registry - Last Updated: Jan 27, 2026 2:46 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -10,11 +10,10 @@ hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
+none-6.local         192.168.68.101     68-B6-91-D2-33-AE  Wireless   Online
 amazon-0db3ba109.local 192.168.68.102     14-0A-C5-B1-80-46  Wireless   Online
-Office.local         192.168.68.103     F0-B3-EC-3B-B3-D5  Wired      Online
 chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
 flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
-BK-AUX.local         192.168.68.108     44-61-32-97-41-0F  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 tablet.local         192.168.68.110     44-42-01-A9-50-6A  Wireless   Online
 HarmonyHub.local     192.168.68.111     00-04-20-F1-2A-89  Wireless   Online
@@ -23,7 +22,6 @@ Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 pc.local             192.168.68.114     E2-05-31-DA-C5-DF  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 pc.local             192.168.68.118     4A-48-B0-30-AF-CA  Wireless   Online
-SonosZP.local        192.168.68.119     B8-E9-37-7C-84-26  Wireless   Online
 BK-BEDROOM.local     192.168.68.120     44-61-32-A6-07-58  Wireless   Online
 Android.local        192.168.68.122     AC-9B-0A-2F-4E-08  Wired      Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
@@ -45,4 +43,4 @@ IP.local             192.168.78.113     D4-53-83-5F-C2-34  Wireless   Online
 EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 36 hosts across 3 subnets
+Total: 34 hosts across 3 subnets
