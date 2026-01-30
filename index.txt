@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Jan 30, 2026 2:46 AM EST
+Host Registry - Last Updated: Jan 30, 2026 3:01 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -26,24 +26,25 @@ Office.local         192.168.68.114     F0-B3-EC-3B-B3-D5  Wired      Online
 SonosZP.local        192.168.68.116     B8-E9-37-7C-84-26  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 BK-BEDROOM.local     192.168.68.118     44-61-32-A6-07-58  Wireless   Online
+J.local              192.168.68.121     AC-9B-0A-2F-4E-08  Wired      Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
 ────────────────────────────────────────────────────────────────────────────────
-Macmini.local        192.168.78.100     A6-13-DD-28-21-5B  Wireless   Online
+Macmini.local        192.168.78.100     A6-13-DD-28-21-5B  Wired      Online
 Amazon.local         192.168.78.101     90-11-95-CE-F7-9C  Wireless   Online
 tablet.local         192.168.78.102     58-9A-3E-DB-64-25  Wireless   Online
 RYSE-SmartBridge-3F21.local 192.168.78.103     D0-16-F0-20-3F-21  Wired      Online
-Amazon.local         192.168.78.104     B4-B7-42-D2-99-43  Wireless   Online
-tablet.local         192.168.78.105     90-F8-2E-03-89-A1  Wireless   Online
+Amazon.local         192.168.78.104     B4-B7-42-D2-99-43  Wired      Online
+tablet.local         192.168.78.105     90-F8-2E-03-89-A1  Wired      Online
 moros.local          192.168.78.106     14-98-77-50-68-5E  Wired      Online
 device.local         192.168.78.107     B6-F7-FF-20-35-A2  Wired      Online
 connect.local        192.168.78.108     2C-9F-FB-EF-52-14  Wireless   Online
 Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
-IP.local             192.168.78.110     D4-53-83-5D-7B-7E  Wireless   Online
+IP.local             192.168.78.110     D4-53-83-5D-7B-7E  Wired      Online
 IP.local             192.168.78.113     D4-53-83-5F-C2-34  Wireless   Online
-EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wireless   Online
+EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wired      Online
 Instruments.local    192.168.78.118     34-14-B5-2B-FC-BA  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 37 hosts across 3 subnets
+Total: 38 hosts across 3 subnets
