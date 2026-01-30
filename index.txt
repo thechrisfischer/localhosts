@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Jan 30, 2026 2:16 AM EST
+Host Registry - Last Updated: Jan 30, 2026 2:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -20,12 +20,11 @@ amazon-0db3ba109.local 192.168.68.106     14-0A-C5-B1-80-46  Wireless   Online
 flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 HarmonyHub.local     192.168.68.111     00-04-20-F1-2A-89  Wireless   Online
-Macmini.local        192.168.68.112     4A-48-B0-30-AF-CA  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 Office.local         192.168.68.114     F0-B3-EC-3B-B3-D5  Wired      Online
+SonosZP.local        192.168.68.116     B8-E9-37-7C-84-26  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 BK-BEDROOM.local     192.168.68.118     44-61-32-A6-07-58  Wireless   Online
-SonosZP.local        192.168.68.119     B8-E9-37-7C-84-26  Wireless   Online
 J.local              192.168.68.121     AC-9B-0A-2F-4E-08  Wired      Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
@@ -47,4 +46,4 @@ EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wireless   Online
 Instruments.local    192.168.78.118     34-14-B5-2B-FC-BA  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 38 hosts across 3 subnets
+Total: 37 hosts across 3 subnets
