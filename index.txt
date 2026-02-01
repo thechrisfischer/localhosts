@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 1, 2026 2:16 AM EST
+Host Registry - Last Updated: Feb 1, 2026 2:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -21,6 +21,7 @@ flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 HarmonyHub.local     192.168.68.111     00-04-20-F1-2A-89  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
+Office.local         192.168.68.114     F0-B3-EC-3B-B3-D5  Wired      Online
 Macmini.local        192.168.68.115     4A-48-B0-30-AF-CA  Wireless   Online
 MacBookPro.local     192.168.68.116     E2-05-31-DA-C5-DF  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
@@ -46,4 +47,4 @@ EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wireless   Online
 Macmini.local        192.168.78.118     A6-13-DD-28-21-5B  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 37 hosts across 3 subnets
+Total: 38 hosts across 3 subnets
