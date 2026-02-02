@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 2, 2026 2:31 AM EST
+Host Registry - Last Updated: Feb 2, 2026 2:46 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -25,6 +25,7 @@ Amazon.local         192.168.68.115     68-B6-91-D2-33-AE  Wireless   Online
 )F&.local           192.168.68.116     44-61-32-87-5D-9F  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 MacBookPro.local     192.168.68.118     E2-05-31-DA-C5-DF  Wireless   Online
+J.local              192.168.68.119     AC-9B-0A-2F-4E-08  Wired      Online
 SonosZP.local        192.168.68.121     B8-E9-37-7C-84-26  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
@@ -43,6 +44,7 @@ Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
 IP.local             192.168.78.110     D4-53-83-5F-C2-34  Wireless   Online
 IP.local             192.168.78.113     D4-53-83-5D-7B-7E  Wireless   Online
 EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wireless   Online
+Macmini.local        192.168.78.118     A6-13-DD-28-21-5B  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 36 hosts across 3 subnets
+Total: 38 hosts across 3 subnets
