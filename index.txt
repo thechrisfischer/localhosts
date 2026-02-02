@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 2, 2026 3:16 AM EST
+Host Registry - Last Updated: Feb 2, 2026 3:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
