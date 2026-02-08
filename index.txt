@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 8, 2026 2:31 AM EST
+Host Registry - Last Updated: Feb 8, 2026 2:46 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -18,7 +18,6 @@ flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
 linux-2.local        192.168.68.108     44-42-01-A9-50-6A  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 none-2.local         192.168.68.110     68-B6-91-D2-33-AE  Wireless   Online
-Unknown              192.168.68.111     7C-F6-66-C7-6C-AD  Unknown    Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 Office.local         192.168.68.114     F0-B3-EC-3B-B3-D5  Wired      Online
 BK-BEDROOM.local     192.168.68.115     44-61-32-A6-07-58  Wireless   Online
@@ -33,6 +32,7 @@ Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
 ────────────────────────────────────────────────────────────────────────────────
 Samsung.local        192.168.78.100     64-1C-B0-B8-D7-D0  Wireless   Online
 Amazon.local         192.168.78.101     B4-B7-42-D2-99-43  Wireless   Online
+F)J؜JBjm.local       192.168.78.102     5C-47-5E-43-A2-2C  Wireless   Online
 RYSE-SmartBridge-3F21.local 192.168.78.103     D0-16-F0-20-3F-21  Wired      Online
 Macmini.local        192.168.78.104     A6-13-DD-28-21-5B  Wireless   Online
 tablet.local         192.168.78.105     90-F8-2E-03-89-A1  Wireless   Online
@@ -45,9 +45,8 @@ Android.local        192.168.78.113     90-11-95-CE-F7-9C  Wireless   Online
 Mac.local            192.168.78.114     2A-28-C1-4D-67-F9  Wireless   Online
 EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wireless   Online
 IP.local             192.168.78.118     D4-53-83-5D-7B-7E  Wireless   Online
-IP.local             192.168.78.119     D4-53-83-5F-C2-34  Wireless   Online
 Ring-7ffd34.local    192.168.78.120     A8-E2-C1-7F-FD-34  Wireless   Online
 moros.local          192.168.78.123     14-98-77-50-68-5E  Wired      Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 41 hosts across 3 subnets
+Total: 40 hosts across 3 subnets
