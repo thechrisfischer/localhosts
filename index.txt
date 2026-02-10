@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 10, 2026 2:16 AM EST
+Host Registry - Last Updated: Feb 10, 2026 2:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -22,7 +22,8 @@ Office.local         192.168.68.114     F0-B3-EC-3B-B3-D5  Wired      Online
 Macmini.local        192.168.68.115     4A-48-B0-30-AF-CA  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 HarmonyHub.local     192.168.68.118     00-04-20-F1-2A-89  Wireless   Online
-SonosZP.local        192.168.68.120     B8-E9-37-7C-84-26  Wireless   Online
+SonosZP.local        192.168.68.121     B8-E9-37-7C-84-26  Wireless   Online
+BK-AUX.local         192.168.68.123     44-61-32-97-41-0F  Unknown    Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
@@ -45,4 +46,4 @@ IP.local             192.168.78.119     D4-53-83-5F-C2-34  Wireless   Online
 moros.local          192.168.78.123     14-98-77-50-68-5E  Wired      Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 36 hosts across 3 subnets
+Total: 37 hosts across 3 subnets
