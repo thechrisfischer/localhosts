@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 14, 2026 2:46 AM EST
+Host Registry - Last Updated: Feb 14, 2026 3:01 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -13,9 +13,12 @@ Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
 Office.local         192.168.68.101     F0-B3-EC-3B-B3-D5  Wired      Online
 amazon-d4c674b70.local 192.168.68.103     10-96-93-B2-6E-B4  Wireless   Online
+J.local              192.168.68.104     AC-9B-0A-2F-4E-08  Wired      Online
 chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
 pc.local             192.168.68.106     4A-48-B0-30-AF-CA  Wireless   Online
+flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
 MacBookPro.local     192.168.68.108     E2-05-31-DA-C5-DF  Wireless   Online
+Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 tablet.local         192.168.68.110     44-42-01-A9-50-6A  Wireless   Online
 tablet.local         192.168.68.111     44-3D-54-1A-A6-84  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
@@ -30,10 +33,10 @@ hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
 ────────────────────────────────────────────────────────────────────────────────
 Samsung.local        192.168.78.101     64-1C-B0-B8-D7-D0  Wireless   Online
-IP.local             192.168.78.102     D4-53-83-5D-7B-7E  Wireless   Online
+IP.local             192.168.78.102     D4-53-83-5D-7B-7E  Wired      Online
 RYSE-SmartBridge-3F21.local 192.168.78.103     D0-16-F0-20-3F-21  Wired      Online
                      192.168.78.104     90-F8-2E-03-89-A1  Wireless   Online
-Amazon.local         192.168.78.105     B4-B7-42-D2-99-43  Wireless   Online
+Amazon.local         192.168.78.105     B4-B7-42-D2-99-43  Wired      Online
 moros.local          192.168.78.106     14-98-77-50-68-5E  Wired      Online
 device.local         192.168.78.107     B6-F7-FF-20-35-A2  Wired      Online
 Instruments.local    192.168.78.108     34-14-B5-2B-FC-BA  Wireless   Online
@@ -42,8 +45,8 @@ Android.local        192.168.78.111     90-11-95-CE-F7-9C  Wireless   Online
 connect.local        192.168.78.113     2C-9F-FB-EF-52-14  Wireless   Online
 linux-2.local        192.168.78.114     58-9A-3E-DB-64-25  Wireless   Online
 IP.local             192.168.78.115     D4-53-83-5F-C2-34  Wireless   Online
-EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wireless   Online
-Macmini.local        192.168.78.119     A6-13-DD-28-21-5B  Wireless   Online
+EPSONCA0E2F.local    192.168.78.117     38-9D-92-CA-0E-2F  Wired      Online
+Macmini.local        192.168.78.119     A6-13-DD-28-21-5B  Wired      Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 37 hosts across 3 subnets
+Total: 40 hosts across 3 subnets
