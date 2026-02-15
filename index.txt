@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 15, 2026 3:31 AM EST
+Host Registry - Last Updated: Feb 15, 2026 3:46 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -23,10 +23,10 @@ amazon-0db3ba109.local 192.168.68.111     14-0A-C5-B1-80-46  Wireless   Online
                      192.168.68.112     44-3D-54-1A-A6-84  Unknown    Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 Amazon.local         192.168.68.114     68-B6-91-D2-33-AE  Wireless   Online
-SonosZP.local        192.168.68.115     B8-E9-37-7C-84-26  Wireless   Online
 )F&.local           192.168.68.116     44-61-32-87-5D-9F  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 HarmonyHub.local     192.168.68.118     00-04-20-F1-2A-89  Wireless   Online
+wk'w.local          192.168.68.121     AC-9B-0A-2F-4E-08  Wired      Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
