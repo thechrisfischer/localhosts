@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 17, 2026 9:47 PM EST
+Host Registry - Last Updated: Feb 17, 2026 10:02 PM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -27,10 +27,9 @@ Amazon.local         192.168.78.113     90-11-95-CE-F7-9C  Wireless   Online
 moros.local          192.168.78.114     14-98-77-50-68-5E  Wired      Online
 MacBookPro.local     192.168.78.115     7A-A9-FD-60-E3-00  Wireless   Online
 Macmini.local        192.168.78.117     A6-13-DD-28-21-5B  Wireless   Online
-IP.local             192.168.78.118     D4-53-83-5D-7B-7E  Wireless   Online
 iPhone.local         192.168.78.120     2E-F5-27-A9-02-55  Wireless   Online
 Mac.local            192.168.78.121     2A-28-C1-4D-67-F9  Wireless   Online
 iPhone.local         192.168.78.122     9E-04-D0-C0-C9-D9  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 27 hosts across 2 subnets
+Total: 26 hosts across 2 subnets
