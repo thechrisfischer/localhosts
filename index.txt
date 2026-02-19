@@ -1,14 +1,14 @@
-Host Registry - Last Updated: Feb 19, 2026 2:46 AM EST
+Host Registry - Last Updated: Feb 19, 2026 3:01 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
-Amazon.local         192.168.66.100     40-A9-CF-03-B4-F2  Wireless   Online
-phone.local          192.168.66.101     98-CC-F3-9B-49-A1  Wireless   Online
+linux.local          192.168.66.100     40-A9-CF-03-B4-F2  Wireless   Online
+Android.local        192.168.66.101     98-CC-F3-9B-49-A1  Wireless   Online
+i.local            192.168.66.103     3C-22-FB-6E-A2-E2  Unknown    Online
 nyx.local            192.168.66.104     C8-A3-62-23-2C-E3  Wired      Online
 hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
-pc.local             192.168.66.117     06-FB-FC-8B-31-F2  Wireless   Online
+nyx.local            192.168.66.117     06-FB-FC-8B-31-F2  Wireless   Online
 Mac.local            192.168.66.118     1A-FC-A0-27-38-01  Wireless   Online
-                     192.168.66.121     26-04-DA-38-44-81  Wireless   Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -27,19 +27,21 @@ Macmini.local        192.168.68.115     4A-48-B0-30-AF-CA  Wireless   Online
 amazon-0db3ba109.local 192.168.68.116     14-0A-C5-B1-80-46  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 HarmonyHub.local     192.168.68.118     00-04-20-F1-2A-89  Wireless   Online
+wk'w.local          192.168.68.121     AC-9B-0A-2F-4E-08  Wired      Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
 ────────────────────────────────────────────────────────────────────────────────
-Mac.local            192.168.78.100     2A-28-C1-4D-67-F9  Wireless   Online
-iPhone.local         192.168.78.101     9E-04-D0-C0-C9-D9  Wireless   Online
+Mac.local            192.168.78.100     2A-28-C1-4D-67-F9  Wired      Online
+iPhone.local         192.168.78.101     9E-04-D0-C0-C9-D9  Wired      Online
 Android.local        192.168.78.102     90-11-95-CE-F7-9C  Wireless   Online
 RYSE-SmartBridge-3F21.local 192.168.78.103     D0-16-F0-20-3F-21  Wired      Online
-EPSONCA0E2F.local    192.168.78.104     38-9D-92-CA-0E-2F  Wireless   Online
-linux-4.local        192.168.78.106     B4-B7-42-D2-99-43  Wireless   Online
+EPSONCA0E2F.local    192.168.78.104     38-9D-92-CA-0E-2F  Wired      Online
+MacBookPro.local     192.168.78.105     7A-A9-FD-60-E3-00  Wireless   Online
+linux-4.local        192.168.78.106     B4-B7-42-D2-99-43  Wired      Online
 device.local         192.168.78.107     B6-F7-FF-20-35-A2  Wired      Online
 Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
-Macmini.local        192.168.78.110     A6-13-DD-28-21-5B  Wireless   Online
+Macmini.local        192.168.78.110     A6-13-DD-28-21-5B  Wired      Online
 moros.local          192.168.78.111     14-98-77-50-68-5E  Wired      Online
                      192.168.78.113     90-F8-2E-03-89-A1  Wireless   Online
 connect.local        192.168.78.114     2C-9F-FB-EF-52-14  Wireless   Online
@@ -47,8 +49,8 @@ Instruments.local    192.168.78.118     34-14-B5-2B-FC-BA  Wireless   Online
 linux-2.local        192.168.78.119     58-9A-3E-DB-64-25  Wireless   Online
 IP.local             192.168.78.120     D4-53-83-5D-7B-7E  Wireless   Online
 IP.local             192.168.78.121     D4-53-83-5F-C2-34  Wireless   Online
-fedora.local         192.168.78.122     22-97-B3-30-13-81  Wireless   Online
-iPhone.local         192.168.78.123     2E-F5-27-A9-02-55  Wireless   Online
+fedora.local         192.168.78.122     22-97-B3-30-13-81  Wired      Online
+iPhone.local         192.168.78.123     2E-F5-27-A9-02-55  Wired      Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 42 hosts across 3 subnets
+Total: 44 hosts across 3 subnets
