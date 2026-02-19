@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 19, 2026 2:16 AM EST
+Host Registry - Last Updated: Feb 19, 2026 2:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -21,6 +21,7 @@ Amazon.local         192.168.68.106     68-B6-91-D2-33-AE  Wireless   Online
 flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
 tablet.local         192.168.68.108     44-3D-54-1A-A6-84  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
+SonosZP.local        192.168.68.111     B8-E9-37-7C-84-26  Wireless   Online
 Amazon.local         192.168.68.112     10-96-93-B2-6E-B4  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 Macmini.local        192.168.68.115     4A-48-B0-30-AF-CA  Wireless   Online
@@ -37,7 +38,6 @@ iPhone.local         192.168.78.101     9E-04-D0-C0-C9-D9  Wireless   Online
 Android.local        192.168.78.102     90-11-95-CE-F7-9C  Wireless   Online
 RYSE-SmartBridge-3F21.local 192.168.78.103     D0-16-F0-20-3F-21  Wired      Online
 EPSONCA0E2F.local    192.168.78.104     38-9D-92-CA-0E-2F  Wireless   Online
-MacBookPro.local     192.168.78.105     7A-A9-FD-60-E3-00  Wireless   Online
 linux-4.local        192.168.78.106     B4-B7-42-D2-99-43  Wireless   Online
 device.local         192.168.78.107     B6-F7-FF-20-35-A2  Wired      Online
 Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
