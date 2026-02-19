@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 19, 2026 3:16 AM EST
+Host Registry - Last Updated: Feb 19, 2026 3:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -8,6 +8,7 @@ nyx.local            192.168.66.104     C8-A3-62-23-2C-E3  Wired      Online
 hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 pc.local             192.168.66.117     06-FB-FC-8B-31-F2  Wireless   Online
 Mac.local            192.168.66.118     1A-FC-A0-27-38-01  Wireless   Online
+                     192.168.66.121     26-04-DA-38-44-81  Wireless   Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -21,6 +22,7 @@ flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
 tablet.local         192.168.68.108     44-3D-54-1A-A6-84  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 BK-AUX.local         192.168.68.110     44-61-32-97-41-0F  Unknown    Online
+SonosZP.local        192.168.68.111     B8-E9-37-7C-84-26  Wireless   Online
 HP842AFD466BEA.local 192.168.68.112     84-2A-FD-46-6B-EA  Unknown    Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 BK-BEDROOM.local     192.168.68.114     44-61-32-A6-07-58  Wireless   Online
@@ -28,7 +30,7 @@ Macmini.local        192.168.68.115     4A-48-B0-30-AF-CA  Wireless   Online
 amazon-0db3ba109.local 192.168.68.116     14-0A-C5-B1-80-46  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 HarmonyHub.local     192.168.68.118     00-04-20-F1-2A-89  Wireless   Online
-SonosZP.local        192.168.68.120     B8-E9-37-7C-84-26  Wireless   Online
+wk'w.local          192.168.68.121     AC-9B-0A-2F-4E-08  Wired      Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
@@ -54,4 +56,4 @@ fedora.local         192.168.78.122     22-97-B3-30-13-81  Wireless   Online
 iPhone.local         192.168.78.123     2E-F5-27-A9-02-55  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 45 hosts across 3 subnets
+Total: 47 hosts across 3 subnets
