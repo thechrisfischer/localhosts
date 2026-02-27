@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Feb 27, 2026 2:16 AM EST
+Host Registry - Last Updated: Feb 27, 2026 2:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -26,7 +26,8 @@ BK-AUX.local         192.168.68.116     44-61-32-97-41-0F  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 )F&.local           192.168.68.118     44-61-32-87-5D-9F  Wireless   Online
 amazon-0db3ba109.local 192.168.68.119     14-0A-C5-B1-80-46  Wireless   Online
+J.local              192.168.68.121     AC-9B-0A-2F-4E-08  Wired      Online
 SonosZP.local        192.168.68.122     B8-E9-37-7C-84-26  Wireless   Online
 HADES.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Total: 23 hosts across 2 subnets
+Total: 24 hosts across 2 subnets
