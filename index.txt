@@ -1,11 +1,11 @@
-Host Registry - Last Updated: Feb 27, 2026 3:31 AM EST
+Host Registry - Last Updated: Feb 27, 2026 3:46 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
 Amazon.local         192.168.66.101     40-A9-CF-03-B4-F2  Wireless   Online
 phone.local          192.168.66.106     98-CC-F3-9B-49-A1  Wireless   Online
 hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
-fedora.local         192.168.66.113     06-65-EC-1F-5B-24  Wireless   Online
+device.local         192.168.66.113     06-65-EC-1F-5B-24  Wireless   Online
 Mac.local            192.168.66.116     1A-FC-A0-27-38-01  Wireless   Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
@@ -24,8 +24,8 @@ HarmonyHub.local     192.168.68.111     00-04-20-F1-2A-89  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 BK-AUX.local         192.168.68.116     44-61-32-97-41-0F  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
-)F&.local           192.168.68.118     44-61-32-87-5D-9F  Wireless   Online
 amazon-0db3ba109.local 192.168.68.119     14-0A-C5-B1-80-46  Wireless   Online
+SonosZP.local        192.168.68.122     B8-E9-37-7C-84-26  Wireless   Online
 HP842AFD466BEA.local 192.168.68.123     84-2A-FD-46-6B-EA  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
