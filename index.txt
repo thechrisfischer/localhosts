@@ -1,10 +1,10 @@
-Host Registry - Last Updated: Mar 3, 2026 3:16 AM EST
+Host Registry - Last Updated: Mar 3, 2026 3:31 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
 Amazon.local         192.168.66.100     40-A9-CF-03-B4-F2  Wireless   Online
 phone.local          192.168.66.101     98-CC-F3-9B-49-A1  Wireless   Online
-fedora.local         192.168.66.103     06-65-EC-1F-5B-24  Wireless   Online
+fedora.local         192.168.66.103     06-65-EC-1F-5B-24  Unknown    Online
 hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
@@ -15,6 +15,7 @@ tablet.local         192.168.68.103     44-42-01-A9-50-6A  Wireless   Online
 HP842AFD466BEA.local 192.168.68.104     84-2A-FD-46-6B-EA  Wireless   Online
 chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
 SonosZP.local        192.168.68.106     B8-E9-37-7C-84-26  Wireless   Online
+ecobee.local         192.168.68.108     44-61-32-A6-07-58  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 Amazon.local         192.168.68.110     68-B6-91-D2-33-AE  Wireless   Online
 Office.local         192.168.68.111     F0-B3-EC-3B-B3-D5  Wired      Online
@@ -24,7 +25,8 @@ Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 Macmini.local        192.168.68.115     4A-48-B0-30-AF-CA  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 iPhone.local         192.168.68.118     2E-9B-7F-38-8C-DF  Wireless   Online
+J.local              192.168.68.120     AC-9B-0A-2F-4E-08  Wired      Online
 HarmonyHub.local     192.168.68.123     00-04-20-F1-2A-89  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Total: 21 hosts across 2 subnets
+Total: 23 hosts across 2 subnets
