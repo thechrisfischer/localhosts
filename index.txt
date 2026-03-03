@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Mar 3, 2026 2:46 AM EST
+Host Registry - Last Updated: Mar 3, 2026 3:01 AM EST
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -21,9 +21,8 @@ Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
                      192.168.68.114     44-3D-54-1A-A6-84  Wireless   Online
 Macmini.local        192.168.68.115     4A-48-B0-30-AF-CA  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
-iPhone.local         192.168.68.118     2E-9B-7F-38-8C-DF  Wireless   Online
 J.local              192.168.68.120     AC-9B-0A-2F-4E-08  Wired      Online
 HarmonyHub.local     192.168.68.123     00-04-20-F1-2A-89  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Total: 20 hosts across 2 subnets
+Total: 19 hosts across 2 subnets
