@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Mar 10, 2026 2:16 AM EDT
+Host Registry - Last Updated: Mar 10, 2026 2:31 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -17,16 +17,16 @@ Office.local         192.168.68.108     F0-B3-EC-3B-B3-D5  Wired      Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 amazon-0db3ba109.local 192.168.68.111     14-0A-C5-B1-80-46  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
-J.local              192.168.68.114     AC-9B-0A-2F-4E-08  Wired      Online
 )F&.local           192.168.68.115     44-61-32-87-5D-9F  Wireless   Online
 BK-BEDROOM.local     192.168.68.116     44-61-32-A6-07-58  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 BK-AUX.local         192.168.68.118     44-61-32-97-41-0F  Unknown    Online
                      192.168.68.119     44-3D-54-1A-A6-84  Wireless   Online
-Sonos-000E589D4F70.local 192.168.68.120     B8-E9-37-7C-84-26  Unknown    Online
 Amazon.local         192.168.68.121     68-B6-91-D2-33-AE  Wireless   Online
 HarmonyHub.local     192.168.68.123     00-04-20-F1-2A-89  Wireless   Online
+SonosZP.local        192.168.68.124     B8-E9-37-7C-84-26  Unknown    Online
 amazon-d4c674b70.local 192.168.68.125     10-96-93-B2-6E-B4  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
+MacBookPro.local     192.168.68.127     22-0B-A4-11-2C-71  Wireless   Online
 
 Total: 23 hosts across 2 subnets
