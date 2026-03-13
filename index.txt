@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Mar 13, 2026 2:31 AM EDT
+Host Registry - Last Updated: Mar 13, 2026 2:46 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -22,6 +22,7 @@ BK-BEDROOM.local     192.168.68.114     44-61-32-A6-07-58  Wireless   Online
 linux-3.local        192.168.68.115     44-3D-54-1A-A6-84  Unknown    Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 HarmonyHub.local     192.168.68.119     00-04-20-F1-2A-89  Wireless   Online
+J.local              192.168.68.120     AC-9B-0A-2F-4E-08  Wired      Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Total: 18 hosts across 2 subnets
+Total: 19 hosts across 2 subnets
