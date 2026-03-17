@@ -1,4 +1,11 @@
-Host Registry - Last Updated: Mar 17, 2026 3:31 AM EDT
+Host Registry - Last Updated: Mar 17, 2026 3:46 AM EDT
+
+Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
+────────────────────────────────────────────────────────────────────────────────
+Amazon.local         192.168.66.100     40-A9-CF-03-B4-F2  Wireless   Online
+Android.local        192.168.66.101     98-CC-F3-9B-49-A1  Wireless   Online
+Mac.local            192.168.66.103     1A-FC-A0-27-38-01  Wireless   Online
+hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -16,8 +23,9 @@ tablet.local         192.168.68.114     44-42-01-A9-50-6A  Wireless   Online
 none-3.local         192.168.68.115     68-B6-91-D2-33-AE  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 HarmonyHub.local     192.168.68.118     00-04-20-F1-2A-89  Wireless   Online
+J.local              192.168.68.119     AC-9B-0A-2F-4E-08  Wired      Online
 )F&.local           192.168.68.121     44-61-32-87-5D-9F  Wireless   Online
 HP842AFD466BEA.local 192.168.68.122     84-2A-FD-46-6B-EA  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Total: 17 hosts across 1 subnet
+Total: 22 hosts across 2 subnets
