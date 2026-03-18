@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Mar 18, 2026 3:46 AM EDT
+Host Registry - Last Updated: Mar 18, 2026 4:17 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -29,7 +29,6 @@ HarmonyHub.local     192.168.68.118     00-04-20-F1-2A-89  Wireless   Online
 )F&.local           192.168.68.119     44-61-32-87-5D-9F  Unknown    Online
 iPhone.local         192.168.68.120     BA-D8-FF-04-3A-FF  Wireless   Online
                      192.168.68.122     44-42-01-A9-50-6A  Wireless   Online
-Unknown              192.168.68.125     84-2A-FD-46-6B-EA  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Total: 26 hosts across 2 subnets
+Total: 25 hosts across 2 subnets
