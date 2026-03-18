@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Mar 18, 2026 3:31 AM EDT
+Host Registry - Last Updated: Mar 18, 2026 3:46 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -26,9 +26,9 @@ linux-3.local        192.168.68.115     44-3D-54-1A-A6-84  Wireless   Online
 BK-AUX.local         192.168.68.116     44-61-32-97-41-0F  Unknown    Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 HarmonyHub.local     192.168.68.118     00-04-20-F1-2A-89  Wireless   Online
+)F&.local           192.168.68.119     44-61-32-87-5D-9F  Unknown    Online
 iPhone.local         192.168.68.120     BA-D8-FF-04-3A-FF  Wireless   Online
                      192.168.68.122     44-42-01-A9-50-6A  Wireless   Online
-wk'w.local          192.168.68.124     AC-9B-0A-2F-4E-08  Wired      Online
 Unknown              192.168.68.125     84-2A-FD-46-6B-EA  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
