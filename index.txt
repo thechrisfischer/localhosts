@@ -1,4 +1,12 @@
-Host Registry - Last Updated: Mar 18, 2026 7:32 AM EDT
+Host Registry - Last Updated: Mar 18, 2026 7:46 AM EDT
+
+Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
+────────────────────────────────────────────────────────────────────────────────
+Amazon.local         192.168.66.100     40-A9-CF-03-B4-F2  Wireless   Online
+Android.local        192.168.66.101     98-CC-F3-9B-49-A1  Wireless   Online
+Mac.local            192.168.66.103     1A-FC-A0-27-38-01  Wireless   Online
+Galaxy-A16-5G.local  192.168.66.106     92-F4-99-65-46-9E  Wireless   Online
+hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -10,15 +18,19 @@ amazon-d4c674b70.local 192.168.68.104     10-96-93-B2-6E-B4  Wireless   Online
 chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
 none-3.local         192.168.68.106     68-B6-91-D2-33-AE  Wireless   Online
 BK-BEDROOM.local     192.168.68.108     44-61-32-A6-07-58  Wireless   Online
+Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 SonosZP.local        192.168.68.110     B8-E9-37-7C-84-26  Wireless   Online
 linux-13.local       192.168.68.111     AA-B1-F4-E0-66-AB  Wireless   Online
 MacBookPro.local     192.168.68.112     22-0B-A4-11-2C-71  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
+linux-3.local        192.168.68.115     44-3D-54-1A-A6-84  Wireless   Online
+BK-AUX.local         192.168.68.116     44-61-32-97-41-0F  Unknown    Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 HarmonyHub.local     192.168.68.118     00-04-20-F1-2A-89  Wireless   Online
 )F&.local           192.168.68.119     44-61-32-87-5D-9F  Unknown    Online
 iPhone.local         192.168.68.120     BA-D8-FF-04-3A-FF  Wireless   Online
                      192.168.68.122     44-42-01-A9-50-6A  Wireless   Online
+wk'w.local          192.168.68.124     AC-9B-0A-2F-4E-08  Wired      Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Total: 18 hosts across 1 subnet
+Total: 27 hosts across 2 subnets
