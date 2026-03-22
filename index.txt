@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Mar 22, 2026 2:16 AM EDT
+Host Registry - Last Updated: Mar 22, 2026 2:31 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -26,7 +26,6 @@ deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 SonosZP.local        192.168.68.118     B8-E9-37-7C-84-26  Wireless   Online
 HarmonyHub.local     192.168.68.119     00-04-20-F1-2A-89  Wireless   Online
 BK-BEDROOM.local     192.168.68.122     44-61-32-A6-07-58  Wireless   Online
-.local               192.168.68.123     78-9C-85-28-63-B5  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
@@ -38,6 +37,7 @@ RYSE-SmartBridge-3F21.local 192.168.78.106     D0-16-F0-20-3F-21  Wired      Onl
 device.local         192.168.78.107     B6-F7-FF-20-35-A2  Wired      Online
 Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
 tablet.local         192.168.78.110     58-9A-3E-DB-64-25  Wireless   Online
+Ring-7ffd34.local    192.168.78.111     A8-E2-C1-7F-FD-34  Wireless   Online
 moros.local          192.168.78.114     14-98-77-50-68-5E  Wired      Online
 EPSONCA0E2F.local    192.168.78.115     38-9D-92-CA-0E-2F  Wireless   Online
 Instruments.local    192.168.78.117     34-14-B5-2B-FC-BA  Wireless   Online
