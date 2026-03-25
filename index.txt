@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Mar 25, 2026 2:31 AM EDT
+Host Registry - Last Updated: Mar 25, 2026 2:46 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -12,7 +12,6 @@ nyx.local            192.168.66.118     D6-D6-4E-97-06-2D  Wireless   Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
-BK-AUX.local         192.168.68.100     44-61-32-97-41-0F  Unknown    Online
 tablet.local         192.168.68.101     44-42-01-A9-50-6A  Wireless   Online
 Office.local         192.168.68.102     F0-B3-EC-3B-B3-D5  Wired      Online
 Amazon.local         192.168.68.103     68-B6-91-D2-33-AE  Wireless   Online
@@ -31,6 +30,7 @@ iPhone.local         192.168.68.118     A6-8B-E8-D2-8A-FA  Wireless   Online
 iPhone.local         192.168.68.121     BA-D8-FF-04-3A-FF  Wireless   Online
 HarmonyHub.local     192.168.68.123     00-04-20-F1-2A-89  Wireless   Online
 MacBookPro.local     192.168.68.124     22-0B-A4-11-2C-71  Wireless   Online
+J.local              192.168.68.125     AC-9B-0A-2F-4E-08  Wired      Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
