@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 1, 2026 2:16 AM EDT
+Host Registry - Last Updated: Apr 1, 2026 2:31 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -22,6 +22,7 @@ Amazon.local         192.168.68.111     14-0A-C5-B1-80-46  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 tablet.local         192.168.68.114     44-42-01-A9-50-6A  Wireless   Online
 Amazon.local         192.168.68.115     68-B6-91-D2-33-AE  Wireless   Online
+BK-BEDROOM.local     192.168.68.116     44-61-32-A6-07-58  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 B0FFDF.local         192.168.68.118     D8-F1-5B-B0-FF-DF  Wireless   Online
 amazon-d4c674b70.local 192.168.68.120     10-96-93-B2-6E-B4  Wireless   Online
@@ -33,14 +34,14 @@ none-3.local         192.168.78.99      B4-B7-42-D2-99-43  Wireless   Online
 Instruments.local    192.168.78.100     34-14-B5-2B-FC-BA  Wireless   Online
 connect.local        192.168.78.101     2C-9F-FB-EF-52-14  Wireless   Online
 Amazon.local         192.168.78.102     90-11-95-CE-F7-9C  Wireless   Online
+IP.local             192.168.78.103     D4-53-83-5D-7B-7E  Wireless   Online
 tablet.local         192.168.78.104     58-9A-3E-DB-64-25  Wireless   Online
 RYSE-SmartBridge-3F21.local 192.168.78.106     D0-16-F0-20-3F-21  Wired      Online
 device.local         192.168.78.107     B6-F7-FF-20-35-A2  Wired      Online
-IP.local             192.168.78.108     D4-53-83-5F-C2-34  Wireless   Online
 Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
 EPSONCA0E2F.local    192.168.78.110     38-9D-92-CA-0E-2F  Wireless   Online
 moros.local          192.168.78.111     14-98-77-50-68-5E  Wired      Online
 Macmini.local        192.168.78.114     A6-13-DD-28-21-5B  Wireless   Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 34 hosts across 3 subnets
+Total: 35 hosts across 3 subnets
