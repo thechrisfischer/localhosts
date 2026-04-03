@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 3, 2026 3:46 AM EDT
+Host Registry - Last Updated: Apr 3, 2026 4:17 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -23,12 +23,12 @@ HP842AFD466BEA.local 192.168.68.108     84-2A-FD-46-6B-EA  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 linux-2.local        192.168.68.110     44-3D-54-1A-A6-84  Wireless   Online
 amazon-0db3ba109.local 192.168.68.111     14-0A-C5-B1-80-46  Wireless   Online
+SonosZP.local        192.168.68.112     B8-E9-37-7C-84-26  Wireless   Online
 Living-Room.local    192.168.68.113     C8-69-CD-46-2A-BB  Wired      Online
 )F&.local           192.168.68.114     44-61-32-87-5D-9F  Unknown    Online
 BK-AUX.local         192.168.68.115     44-61-32-97-41-0F  Unknown    Online
 BK-BEDROOM.local     192.168.68.116     44-61-32-A6-07-58  Unknown    Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
-SonosZP.local        192.168.68.119     B8-E9-37-7C-84-26  Wireless   Online
 HarmonyHub.local     192.168.68.121     00-04-20-F1-2A-89  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
