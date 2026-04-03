@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 3, 2026 4:17 AM EDT
+Host Registry - Last Updated: Apr 3, 2026 4:32 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -32,21 +32,4 @@ deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 HarmonyHub.local     192.168.68.121     00-04-20-F1-2A-89  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
-────────────────────────────────────────────────────────────────────────────────
-linux-2.local        192.168.78.99      B4-B7-42-D2-99-43  Wireless   Online
-Instruments.local    192.168.78.100     34-14-B5-2B-FC-BA  Wireless   Online
-IP.local             192.168.78.101     D4-53-83-5F-C2-34  Wireless   Online
-linux.local          192.168.78.102     58-9A-3E-DB-64-25  Wireless   Online
-Amazon.local         192.168.78.103     90-11-95-CE-F7-9C  Wireless   Online
-IP.local             192.168.78.104     D4-53-83-5D-7B-7E  Wireless   Online
-Samsung.local        192.168.78.105     64-1C-B0-B8-D7-D0  Wireless   Online
-RYSE-SmartBridge-3F21.local 192.168.78.106     D0-16-F0-20-3F-21  Wired      Online
-device.local         192.168.78.107     B6-F7-FF-20-35-A2  Wired      Online
-connect.local        192.168.78.108     2C-9F-FB-EF-52-14  Wireless   Online
-Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
-Macmini.local        192.168.78.110     A6-13-DD-28-21-5B  Wireless   Online
-moros.local          192.168.78.111     14-98-77-50-68-5E  Wired      Online
-metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
-
-Total: 40 hosts across 3 subnets
+Total: 26 hosts across 2 subnets
