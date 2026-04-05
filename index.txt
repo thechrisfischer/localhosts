@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 5, 2026 3:31 AM EDT
+Host Registry - Last Updated: Apr 5, 2026 3:46 AM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -11,6 +11,7 @@ hypnos.local         192.168.66.112     AA-B3-5A-67-4B-D6  Wired      Online
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
+)F&.local           192.168.68.99      44-61-32-87-5D-9F  Wireless   Online
 BK-AUX.local         192.168.68.100     44-61-32-97-41-0F  Unknown    Online
 linux-2.local        192.168.68.101     44-3D-54-1A-A6-84  Unknown    Online
 Office.local         192.168.68.102     F0-B3-EC-3B-B3-D5  Wired      Online
@@ -22,6 +23,7 @@ amazon-0db3ba109.local 192.168.68.108     14-0A-C5-B1-80-46  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 Living-Room.local    192.168.68.111     C8-69-CD-46-2A-BB  Wired      Online
 SonosZP.local        192.168.68.112     B8-E9-37-7C-84-26  Wireless   Online
+BK-BEDROOM.local     192.168.68.113     44-61-32-A6-07-58  Unknown    Online
 amazon-d4c674b70.local 192.168.68.114     10-96-93-B2-6E-B4  Wireless   Online
 linux.local          192.168.68.115     68-B6-91-D2-33-AE  Wireless   Online
 HarmonyHub.local     192.168.68.116     00-04-20-F1-2A-89  Wireless   Online
@@ -39,11 +41,10 @@ Amazon.local         192.168.78.103     90-11-95-CE-F7-9C  Wireless   Online
 IP.local             192.168.78.104     D4-53-83-5F-C2-34  Wireless   Online
 IP.local             192.168.78.105     D4-53-83-5D-7B-7E  Wireless   Online
 RYSE-SmartBridge-3F21.local 192.168.78.106     D0-16-F0-20-3F-21  Wired      Online
-device.local         192.168.78.107     B6-F7-FF-20-35-A2  Wired      Online
 Samsung.local        192.168.78.108     64-1C-B0-B8-D7-D0  Wireless   Online
 Lutron-02bfe8fe.local 192.168.78.109     18-93-D7-CD-73-97  Wired      Online
 Macmini.local        192.168.78.110     A6-13-DD-28-21-5B  Wireless   Online
 moros.local          192.168.78.111     14-98-77-50-68-5E  Wired      Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 37 hosts across 3 subnets
+Total: 38 hosts across 3 subnets
