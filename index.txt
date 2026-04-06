@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 6, 2026 3:46 PM EDT
+Host Registry - Last Updated: Apr 6, 2026 4:01 PM EDT
 
 Subnet: 192.168.66.0/24 (Goodword - 192.168.66.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -38,6 +38,7 @@ linux-2.local        192.168.78.101     B4-B7-42-D2-99-43  Wireless   Online
 connect.local        192.168.78.102     2C-9F-FB-EF-52-14  Wireless   Online
 Amazon.local         192.168.78.103     90-11-95-CE-F7-9C  Wireless   Online
 IP.local             192.168.78.104     D4-53-83-5F-C2-34  Wireless   Online
+IP.local             192.168.78.105     D4-53-83-5D-7B-7E  Wireless   Online
 RYSE-SmartBridge-3F21.local 192.168.78.106     D0-16-F0-20-3F-21  Wired      Online
 device.local         192.168.78.107     B6-F7-FF-20-35-A2  Wired      Online
 Samsung.local        192.168.78.108     64-1C-B0-B8-D7-D0  Wireless   Online
@@ -46,4 +47,4 @@ Macmini.local        192.168.78.110     A6-13-DD-28-21-5B  Wireless   Online
 moros.local          192.168.78.111     14-98-77-50-68-5E  Wired      Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 37 hosts across 3 subnets
+Total: 38 hosts across 3 subnets
