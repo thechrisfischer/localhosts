@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 9, 2026 2:32 AM EDT
+Host Registry - Last Updated: Apr 9, 2026 2:47 AM EDT
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
