@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 10, 2026 3:32 AM EDT
+Host Registry - Last Updated: Apr 10, 2026 3:47 AM EDT
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -9,6 +9,7 @@ Office.local         192.168.68.102     F0-B3-EC-3B-B3-D5  Wired      Online
 Macmini.local        192.168.68.103     4A-48-B0-30-AF-CA  Wireless   Online
 chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
 flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
+wk'v.local          192.168.68.108     AC-9B-0A-2F-4E-08  Wired      Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 amazon-d4c674b70.local 192.168.68.110     10-96-93-B2-6E-B4  Wireless   Online
 Living-Room.local    192.168.68.111     C8-69-CD-46-2A-BB  Wired      Online
@@ -41,4 +42,4 @@ Macmini.local        192.168.78.110     A6-13-DD-28-21-5B  Wireless   Online
 moros.local          192.168.78.111     14-98-77-50-68-5E  Wired      Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 35 hosts across 2 subnets
+Total: 36 hosts across 2 subnets
