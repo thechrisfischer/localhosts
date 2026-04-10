@@ -1,27 +1,4 @@
-Host Registry - Last Updated: Apr 10, 2026 2:17 AM EDT
-
-Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
-────────────────────────────────────────────────────────────────────────────────
-phone.local          192.168.68.99      BA-D8-FF-04-3A-FF  Wireless   Online
-Amazon.local         192.168.68.100     14-0A-C5-B1-80-46  Wireless   Online
-B0FFDF.local         192.168.68.101     D8-F1-5B-B0-FF-DF  Wireless   Online
-Office.local         192.168.68.102     F0-B3-EC-3B-B3-D5  Wired      Online
-Macmini.local        192.168.68.103     4A-48-B0-30-AF-CA  Wireless   Online
-chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
-flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
-wk'v.local          192.168.68.108     AC-9B-0A-2F-4E-08  Wired      Online
-Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
-Living-Room.local    192.168.68.111     C8-69-CD-46-2A-BB  Wired      Online
-tablet.local         192.168.68.112     44-3D-54-1A-A6-84  Wireless   Online
-tablet.local         192.168.68.114     44-42-01-A9-50-6A  Wireless   Online
-deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
-Amazon.local         192.168.68.118     68-B6-91-D2-33-AE  Wireless   Online
-BK-AUX.local         192.168.68.119     44-61-32-97-41-0F  Wireless   Online
-BK-BEDROOM.local     192.168.68.120     44-61-32-A6-07-58  Wireless   Online
-iPhone.local         192.168.68.121     A6-8B-E8-D2-8A-FA  Wireless   Online
-MacBookPro.local     192.168.68.122     22-0B-A4-11-2C-71  Wireless   Online
-HarmonyHub.local     192.168.68.124     00-04-20-F1-2A-89  Wireless   Online
-hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
+Host Registry - Last Updated: Apr 10, 2026 2:32 AM EDT
 
 Subnet: 192.168.78.0/24 (ZoomBeach - 192.168.78.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -39,4 +16,4 @@ Macmini.local        192.168.78.110     A6-13-DD-28-21-5B  Wireless   Online
 moros.local          192.168.78.111     14-98-77-50-68-5E  Wired      Online
 metus.local          192.168.78.125     DE-AA-22-BC-27-AD  Wired      Online
 
-Total: 33 hosts across 2 subnets
+Total: 13 hosts across 1 subnet
