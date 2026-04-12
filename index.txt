@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 12, 2026 2:30 AM EDT
+Host Registry - Last Updated: Apr 12, 2026 2:45 AM EDT
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -21,8 +21,7 @@ linux-2.local        192.168.68.118     68-B6-91-D2-33-AE  Wireless   Online
 linux-3.local        192.168.68.119     44-3D-54-1A-A6-84  Wireless   Online
 MacBookPro.local     192.168.68.121     22-0B-A4-11-2C-71  Wireless   Online
 HarmonyHub.local     192.168.68.122     00-04-20-F1-2A-89  Wireless   Online
-wlan0.local          192.168.68.124     7C-F6-66-C7-6C-AD  Wired      Online
 .local               192.168.68.125     78-9C-85-28-63-B5  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Total: 22 hosts across 1 subnet
+Total: 21 hosts across 1 subnet
