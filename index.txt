@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 13, 2026 3:15 AM EDT
+Host Registry - Last Updated: Apr 13, 2026 3:30 AM EDT
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -10,11 +10,11 @@ Macmini.local        192.168.68.106     4A-48-B0-30-AF-CA  Wireless   Online
 flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
 Unknown              192.168.68.108     84-2A-FD-46-6B-EA  Wireless   Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
+B0FFDF.local         192.168.68.110     D8-F1-5B-B0-FF-DF  Wireless   Online
 Living-Room.local    192.168.68.111     C8-69-CD-46-2A-BB  Wired      Online
 amazon-0db3ba109.local 192.168.68.112     14-0A-C5-B1-80-46  Wireless   Online
 tablet.local         192.168.68.113     44-42-01-A9-50-6A  Wireless   Online
 SonosZP.local        192.168.68.114     B8-E9-37-7C-84-26  Wireless   Online
-)F&.local           192.168.68.115     44-61-32-87-5D-9F  Unknown    Online
 BK-BEDROOM.local     192.168.68.116     44-61-32-A6-07-58  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 iPhone.local         192.168.68.118     BA-D8-FF-04-3A-FF  Wireless   Online
