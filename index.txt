@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 14, 2026 2:15 AM EDT
+Host Registry - Last Updated: Apr 14, 2026 2:30 AM EDT
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -15,7 +15,6 @@ Living-Room.local    192.168.68.111     C8-69-CD-46-2A-BB  Wired      Online
 amazon-0db3ba109.local 192.168.68.112     14-0A-C5-B1-80-46  Wireless   Online
 tablet.local         192.168.68.113     44-42-01-A9-50-6A  Wireless   Online
 SonosZP.local        192.168.68.114     B8-E9-37-7C-84-26  Wireless   Online
-BK-BEDROOM.local     192.168.68.115     44-61-32-A6-07-58  Unknown    Online
 BK-AUX.local         192.168.68.116     44-61-32-97-41-0F  Unknown    Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 )F&.local           192.168.68.118     44-61-32-87-5D-9F  Unknown    Online
@@ -26,4 +25,4 @@ HarmonyHub.local     192.168.68.122     00-04-20-F1-2A-89  Wireless   Online
 amazon-d4c674b70.local 192.168.68.124     10-96-93-B2-6E-B4  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
-Total: 23 hosts across 1 subnet
+Total: 22 hosts across 1 subnet
