@@ -1,15 +1,15 @@
-Host Registry - Last Updated: Apr 18, 2026 2:15 AM EDT
+Host Registry - Last Updated: Apr 18, 2026 2:30 AM EDT
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
 linux-4.local        192.168.68.99      44-3D-54-1A-A6-84  Unknown    Online
-BK-AUX.local         192.168.68.100     44-61-32-97-41-0F  Unknown    Online
 linux-2.local        192.168.68.101     10-96-93-B2-6E-B4  Unknown    Online
 Office.local         192.168.68.102     F0-B3-EC-3B-B3-D5  Wired      Online
 B0FFDF.local         192.168.68.103     D8-F1-5B-B0-FF-DF  Wireless   Online
 hydra.local          192.168.68.104     68-CA-C4-9B-C7-04  Wireless   Online
 chaos.local          192.168.68.105     4C-20-B8-AB-05-C9  Wired      Online
 iPhone.local         192.168.68.106     A6-8B-E8-D2-8A-FA  Wireless   Online
+flichub.local        192.168.68.107     62-6E-E9-BF-61-8B  Wired      Online
 Lutron-01669156.local 192.168.68.109     EC-11-27-C7-8C-81  Wired      Online
 HarmonyHub.local     192.168.68.110     00-04-20-F1-2A-89  Wireless   Online
 Living-Room.local    192.168.68.111     C8-69-CD-46-2A-BB  Wired      Online
@@ -20,8 +20,8 @@ Pixel-6a.local       192.168.68.116     B2-1B-68-97-B4-5C  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 Amazon.local         192.168.68.118     68-B6-91-D2-33-AE  Wireless   Online
 Macmini.local        192.168.68.119     4A-48-B0-30-AF-CA  Wireless   Online
-SonosZP.local        192.168.68.120     B8-E9-37-7C-84-26  Wireless   Online
 J.local              192.168.68.121     AC-9B-0A-2F-4E-08  Wired      Online
+SonosZP.local        192.168.68.124     B8-E9-37-7C-84-26  Wireless   Online
 iPhone.local         192.168.68.125     BA-D8-FF-04-3A-FF  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
