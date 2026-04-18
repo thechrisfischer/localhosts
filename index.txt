@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 18, 2026 2:30 AM EDT
+Host Registry - Last Updated: Apr 18, 2026 2:45 AM EDT
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -20,8 +20,8 @@ Pixel-6a.local       192.168.68.116     B2-1B-68-97-B4-5C  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
 Amazon.local         192.168.68.118     68-B6-91-D2-33-AE  Wireless   Online
 Macmini.local        192.168.68.119     4A-48-B0-30-AF-CA  Wireless   Online
+SonosZP.local        192.168.68.120     B8-E9-37-7C-84-26  Wireless   Online
 J.local              192.168.68.121     AC-9B-0A-2F-4E-08  Wired      Online
-SonosZP.local        192.168.68.124     B8-E9-37-7C-84-26  Wireless   Online
 iPhone.local         192.168.68.125     BA-D8-FF-04-3A-FF  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 
