@@ -1,4 +1,4 @@
-Host Registry - Last Updated: Apr 19, 2026 3:15 AM EDT
+Host Registry - Last Updated: Apr 19, 2026 3:30 AM EDT
 
 Subnet: 192.168.68.0/24 (Zoom - 192.168.68.1)
 ────────────────────────────────────────────────────────────────────────────────
@@ -17,15 +17,14 @@ B0FFDF.local         192.168.68.113     D8-F1-5B-B0-FF-DF  Wireless   Online
 )F&.local           192.168.68.115     44-61-32-87-5D-9F  Wireless   Online
 linux.local          192.168.68.116     44-42-01-A9-50-6A  Wireless   Online
 deimos.local         192.168.68.117     02-01-25-AC-10-5F  Wired      Online
-BK-BEDROOM.local     192.168.68.118     44-61-32-A6-07-58  Wireless   Online
 Macmini.local        192.168.68.119     4A-48-B0-30-AF-CA  Wireless   Online
+SonosZP.local        192.168.68.120     B8-E9-37-7C-84-26  Wireless   Online
 iPhone.local         192.168.68.121     A6-8B-E8-D2-8A-FA  Wireless   Online
 orcus.local          192.168.68.123     8C-85-90-3B-84-C3  Wireless   Online
 .local               192.168.68.124     78-9C-85-28-63-B5  Wireless   Online
-SonosZP.local        192.168.68.125     B8-E9-37-7C-84-26  Wireless   Online
 hades.local          192.168.68.126     88-A2-9E-28-B8-92  Wired      Online
 amazon-d4c674b70.local 192.168.68.127     10-96-93-B2-6E-B4  Wireless   Online
 pc.local             192.168.68.128     AA-B1-F4-E0-66-AB  Wireless   Online
 HP842AFD466BEA.local 192.168.68.129     84-2A-FD-46-6B-EA  Wireless   Online
 
-Total: 25 hosts across 1 subnet
+Total: 24 hosts across 1 subnet
